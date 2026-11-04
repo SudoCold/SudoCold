@@ -1,5 +1,4 @@
-<img width="1200" height="760" alt="sudocold-profile" src="https://github.com/user-attachments/assets/e284feac-dfac-4f6d-b091-b52bd3a4c762" />
-
+<img width="1200" height="680" alt="sudocold-cpp" src="https://github.com/user-attachments/assets/fe0f7b5e-1812-47f8-94a8-0d2ee0896f29" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kasr.kin.2025/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manuel-david-palma-d-b8b6052b6/) 
