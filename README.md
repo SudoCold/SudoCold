@@ -1,23 +1,6 @@
-# 📅 Daily Schedule
+<img width="1200" height="760" alt="sudocold-profile" src="https://github.com/user-attachments/assets/e284feac-dfac-4f6d-b091-b52bd3a4c762" />![Uplo<svg 
 
-My daily routine focused on reading, programming, mathematics, and academic responsibilities.
 
-## 🕒 Timetable
-
-| Time | Activity | Description |
-|:---:|:---:|:---|
-| 8:00 AM – 12:00 PM | 📚 Read Books | Reading and expanding knowledge |
-| 12:00 PM – 3:00 PM | 💻 Coding | Programming and developing projects |
-| 3:00 PM – 6:00 PM | 📚 Read Books | Continuous learning and reading |
-| 6:00 PM – 7:00 PM | 📐 Study Mathematics | Practicing mathematical concepts and problem-solving |
-| 7:00 PM – 8:00 PM | 📝 School Works | Completing assignments and academic tasks |
-
-## 🎯 Daily Goals
-- 💻 Work on startup
-
----
-
-**"Learn something new every day. Build something every day."**
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kasr.kin.2025/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manuel-david-palma-d-b8b6052b6/) 
 
