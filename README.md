@@ -1,4 +1,4 @@
-<img width="1200" height="760" alt="sudocold-profile" src="https://github.com/user-attachments/assets/e284feac-dfac-4f6d-b091-b52bd3a4c762" />![Uplo<svg 
+<img width="1200" height="760" alt="sudocold-profile" src="https://github.com/user-attachments/assets/e284feac-dfac-4f6d-b091-b52bd3a4c762" />
 
 
 ## 🌐 Socials:
